@@ -1,5 +1,3 @@
-# Language Distribution Assignment
-
 **Note: Utilize real-time data to answer the following questions.**
 
 ## Task 1: Top 10 Countries with the Most Spoken Languages
